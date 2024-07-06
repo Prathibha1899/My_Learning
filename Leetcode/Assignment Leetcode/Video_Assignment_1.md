@@ -218,9 +218,9 @@ find_duplicates(lst)
 **how the list solution works by stepping through array one step at a time?**<br>
 In this solution we don't use any dict/set to avoid the O(n) space complexity and we just go through the list and get the duplicates. Code works as below<br>
 
-<img src="Image_1.JPEG" alt="Sample Image" width="800"/>
-<img src="Image_2.JPEG" alt="Sample Image" width="800"/>
-<img src="Image_3.JPEG" alt="Sample Image" width="800"/>
+<img src="Image_1.jpeg" alt="Sample Image" width="800"/>
+<img src="Image_2.jpeg" alt="Sample Image" width="800"/>
+<img src="Image_3.jpeg" alt="Sample Image" width="800"/>
 
 
 
