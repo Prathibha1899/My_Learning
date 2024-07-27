@@ -1,4 +1,4 @@
-# LeetCode Problems and Projects
+# LeetCode Problems
 
 Welcome to my GitHub repository! Here, I share solutions to various LeetCode problems that I've worked on. The aim is to demonstrate problem-solving skills, coding techniques, and to provide useful resources for others.
 
